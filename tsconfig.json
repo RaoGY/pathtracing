@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "noImplicitAny": false,
+        "module": "esnext",
+        "allowJs": true,
+        "removeComments": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "src/**/*.test.ts",
+        "node_modules"
+    ]
+}
