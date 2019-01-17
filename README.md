@@ -1,2 +1,2 @@
-# raytracing
-raytracing test demo
+# pathtracing
+a path tracing with Monte Carlo integration for GI implement on webGL.
